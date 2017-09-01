@@ -1,7 +1,7 @@
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
-*Status: Lol this was a long time ago and I wasn't very experienced! Code works though!*
+*Status: Lol this was a long time ago and I had little experience. Code works though!*
 
 # Table of Contents
 1. [Challenge Summary](README.md#challenge-summary)
